@@ -19,8 +19,8 @@ You are playing music (or anything) you do some mundane thing like close a brows
     - Now resume your media and it should be fixed
 
 - #### Automatic method
-    - Copy/download the [scripts/toggle-profile.sh](scripts/toggle-profile.sh) script to an accessible location like `~/scripts/toggle-profile.sh`
-    - Make the script executable `chmod +x ~/scripts/toggle-profile.sh`
+    - Copy/download the [scripts/fix-speaker.sh](scripts/fix-speaker.sh) script to an accessible location like `~/scripts/fix-speaker.sh`
+    - Make the script executable `chmod +x ~/scripts/fix-speaker.sh`
     - Now you can either run the script manually when this problem happens \
     or \
     bind it to a keyboard shortcut for convenience (I have it bound to `SUPER + Shift + R`)
