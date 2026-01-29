@@ -1,3 +1,5 @@
+# Common Issues
+
 ## Q. Pop sound on startup
 The speaker 'pops' when you boot you device and when you play media for the first time. No fix available to this, so just accept it as a minor inconvenience.
 
