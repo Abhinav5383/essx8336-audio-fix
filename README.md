@@ -41,12 +41,13 @@ If you run `alsa-info.sh`, you'll see that the BIOS ACPI tables report the audio
   For me only the `SOF_ES8336_HEADPHONE_GPIO` quirk does anything which is BIT(7) or 128 in decimal.
 - Restart your laptop and your sound should be fixed now.
 
+---
 
-### See [MIC_FIX.md](MIC_FIX.md) to fix the mic
+#### See [MIC_FIX.md](MIC_FIX.md) to fix the mic
 
-### See [COMMON_ISSUES.md](COMMON_ISSUES.md) for fixes to some common issues you'll encounter
+#### See [COMMON_ISSUES.md](COMMON_ISSUES.md) for fixes to some common issues you'll encounter
 
-
+---
 
 ### More Resources
 If your problem wasn't fixed with this, here are links to some resources where you can find more information:
