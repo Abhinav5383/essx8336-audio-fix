@@ -26,7 +26,7 @@ I have not been able to fix this issue, but there _is_ a workaround through whic
 **Please unplug all external microphones/headsets while following this guide. This is to ensure that the virtual mic is created from the correct capture source.**
 
 
-## Step 3. Creating a Virtual Mic
+## Step 1. Creating a Virtual Mic
 - Run the following command
     ```sh
     pactl load-module module-remap-source master=$(pactl list sources short | awk '$2 ~ /^alsa_input\./ { print $2 }') source_name=virtual_mic source_properties="device.description='Virtual Mic'"
@@ -47,7 +47,7 @@ I have not been able to fix this issue, but there _is_ a workaround through whic
 _Make sure you explicitly select the virtual mic for input in apps or even better just select the virtual mic as default from `pavucontrol > Input Devices > Click the check icon in front of the virtual mic`_
 
 
-## Step 4. Making the fix "automatic"
+## Step 2. Making the fix "automatic"
 As I said, that command creates a virtual mic but it only lasts for the current session.
 
 You'll need to find out if you are running Pipewire or Pulseaudio.

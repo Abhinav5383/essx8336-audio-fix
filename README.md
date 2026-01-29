@@ -42,6 +42,12 @@ If you run `alsa-info.sh`, you'll see that the BIOS ACPI tables report the audio
 - Restart your laptop and your sound should be fixed now.
 
 
+### See [MIC_FIX.md](MIC_FIX.md) to fix the mic
+
+### See [COMMON_ISSUES.md](COMMON_ISSUES.md) for fixes to some common issues you'll encounter
+
+
+
 ### More Resources
 If your problem wasn't fixed with this, here are links to some resources where you can find more information:
 - https://thesofproject.github.io/latest/getting_started/intel_debug/suggestions.html#es8336-support
