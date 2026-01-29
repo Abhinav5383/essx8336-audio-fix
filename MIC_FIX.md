@@ -1,3 +1,9 @@
+---
+layout: default
+title: Microphone Fix
+nav_order: 2
+---
+
 ### The MIC fix is an extension to the speaker fix, so make sure you've gone through that first. 
 
 _If your speaker already works from the get go (without going through the speaker fix) but your mic isn't working even after after going through this MIC FIX guide, I'd suggest going through the speaker fix regardless._

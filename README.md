@@ -1,3 +1,9 @@
+---
+layout: home
+title: Home
+nav_order: 1
+---
+
 ## ESSX8336 Audio Fix on Infinix laptops (Linux)
 This is a guide to fix audio not working on Infinix devices with the essx8336 sound card. Please keep in mind that I own only an **Infinix X2 Plus** (i3 Gen11) so this has not been tested on other variants that come with this same sound card.
 
