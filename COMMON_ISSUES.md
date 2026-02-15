@@ -10,6 +10,7 @@ The speaker 'pops' when you boot you device and when you play media for the firs
 
 ## Q. The speaker randomly stops working
 You are playing music (or anything) you do some mundane thing like close a browser tab or save a file in a text editor and out of nowhere your speaker stops working. I have no idea why this happens, what I do know is how to fix this.
+Also note that this same thing happens quite often when muting/unmuting the speaker.
 
 - #### Manual method
     - Open pavucontrol (Volume control)
