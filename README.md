@@ -24,7 +24,7 @@ Check your kernel version (`uname -r`), install the required packages using your
 
 > [!IMPORTANT]  
 > Linux kernel version >= 6.18.9 requires an additional step. You need to install a dkms. \
-> More info here: https://github.com/Abhinav5383/dotfiles/tree/main/dkms/es8336-fix
+> More info here: [https://github.com/Abhinav5383/dotfiles/tree/main/dkms/es8336-fix](https://github.com/Abhinav5383/dotfiles/tree/main/dkms/es8336-fix)
 
 ## Step 1. Raising DAC value through `alsamixer`
 - Open your terminal and run `alsamixer`. It'll open up a TUI
