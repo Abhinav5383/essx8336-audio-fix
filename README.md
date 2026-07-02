@@ -22,7 +22,9 @@ This is a guide to fix audio not working on Infinix devices with the essx8336 so
 
 Check your kernel version (`uname -r`), install the required packages using your distro’s package manager (package names may vary across distros), reboot once, and then proceed with the guide.
 
-NOTE: (as of 12-02-2026) On linux kernel 6.18.9 audio stops working randomly and needs a reboot for fixing that.
+> [!IMPORTANT]  
+> Linux kernel version >= 6.18.9 requires an additional step. You need to install a dkms. \
+> More info here: https://github.com/Abhinav5383/dotfiles/tree/main/dkms/es8336-fix
 
 ## Step 1. Raising DAC value through `alsamixer`
 - Open your terminal and run `alsamixer`. It'll open up a TUI
