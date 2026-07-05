@@ -60,6 +60,7 @@ If you run `alsa-info.sh`, you'll see that the BIOS ACPI tables report the audio
 
 ---
 
+
 ### More Resources
 If your problem wasn't fixed with this, here are links to some resources where you can find more information:
 - [https://thesofproject.github.io/latest/getting_started/intel_debug/suggestions.html#es8336-support](https://thesofproject.github.io/latest/getting_started/intel_debug/suggestions.html#es8336-support)
