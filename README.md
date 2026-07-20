@@ -11,6 +11,7 @@ This is a guide to fix audio not working on Infinix devices with the essx8336 so
 > If something in this guide is unclear, you are encouraged to look it up on the internet or ask an AI assistant, _Do not blindly copy-paste commands you do not understand_. \
 > Also, please don't assume I'm some wizard writing this guide. Most of it comes from my experience fixing this on my own device.
 
+
 ## Fixing no sound from Internal speakers
 
 **Pre-requisites**:
